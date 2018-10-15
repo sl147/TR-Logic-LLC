@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    width: 70%;
+    height: 30px;
+    padding-left: 3px;
+}
+
+label {
+    margin-top: 5px;
+}
+
+td {
+    padding-left: 4px;
+
+    vertical-align: middle !important;
+}
+
+[v-cloak] {
+    display: none;
+}
+
+.authTitle {
+    font-size: 16px;
+}
+
+.authlog {
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.auth {
+    font-size: 14px;
+    /*width: 50%;*/
+
+    margin: 0 auto;
+    padding: 10px;
+}
+.auth label {
+    display: block;
+    float: left;
+
+    width: 9em;
+}
+
+.authinput {
+    size: : 40;
+}
+
+.btnPopover {
+    margin-left: 10px;
+}
+.btnReg {
+    margin-top: 10px;
+}
+.btnwidth {
+    font-size: 12px;
+
+    width: 100%;
+}
+
+.chek {
+    width: 64%;
+    margin-left: 20%;
+    padding: 5px;
+
+    text-align: justify;
+
+    border: 1px solid #22579e;
+}
+
+.heightDivInput {
+    height: 50px;
+}
+.heightDivShow {
+    height: :20px;
+}
+.lab {
+    color: red;
+}
+
+.fa_custom {
+    color: #09c
+    background-color: white;
+}
+
+.warningConfirm {
+    height: 25px;
+
+    color: #c0392b;
+}
+.warningMeta {
+    width: 50%;
+    height: 30px;
+    margin-left: 15%;
+
+    color: #c0392b;
+}
+
+.warningSubmit {
+    height: 25px;
+    margin-left: 10%;
+
+    color: #c0392b;
+}
+.warningTXT {
+    margin-left: 10%;
+
+    color: #c0392b;
+}
+.warningUser {
+    margin-left: -10%;
+
+    color: #c0392b;
+}
+::-webkit-input-placeholder {
+    color: #899094;
+}
+::-moz-placeholder {
+    color: #899094;
+}/* Firefox 19+ */
+:-moz-placeholder {
+    color: #899094;
+}/* Firefox 18- */
+:-ms-input-placeholder {
+    color: #899094;
+}
